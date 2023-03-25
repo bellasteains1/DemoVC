@@ -1,0 +1,9 @@
+
+checks for retail_orders:
+  - row_count > 0
+
+checks for retail_customers:
+  - row_count > 0
+
+checks for retail_products:
+  - row_count > 0
